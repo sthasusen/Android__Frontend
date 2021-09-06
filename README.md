@@ -1,7 +1,6 @@
-# finalassignment-SushilBudhathoki
-finalassignment-SushilBudhathoki created by GitHub Classroom
+# finalassignment-SushenShrestha
 
-Features of online burger
+Features of online Pizza
 1. it has system of booking the products
 2. it can add and delete the product
 3. it shows the location of the store
